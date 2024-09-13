@@ -1,0 +1,114 @@
+/* style.css */
+
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container for the app */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #66ffb3;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Main container for the app content */
+.container {
+    background-color: #ffffff; /* White background for the app */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+    width: 90%;
+    max-width: 500px; /* Max width to keep it from stretching too much */
+}
+
+/* Header styling */
+h1 {
+    text-align: center;
+    color: #333; /* Darker text for better readability */
+    margin-bottom: 20px;
+}
+
+/* Input field styling */
+input[type="text"] {
+    width: 100%; /* Full width */
+    padding: 10px; /* Padding for better touch targets */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 4px; /* Slightly rounded corners */
+    margin-bottom: 10px; /* Spacing below the input */
+    font-size: 16px; /* Font size */
+    border-radius: 12px;
+}
+.input-container {
+    display: flex;
+    align-items: center; /* Centers items vertically */
+    margin-bottom: 10px; /* Adds some space below the input box and button */
+}
+
+.input-container input {
+    flex: 1; /* Allows the input to use remaining space */
+    padding: 8px; /* Adds padding inside the input box */
+    margin-right: 10px; /* Adds space between the input and button */
+}
+
+.input-container button {
+    margin-bottom: 13px;
+    padding: 8px 16px; /* Adds padding inside the button */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+}
+
+/* Button styling */
+button {
+    background-color: #2e91fa; /* Blue background */
+    color: white; /* White text */
+    border: none; /* No border */
+    border-radius: 4px; /* Slightly rounded corners */
+    padding: 10px; /* Padding for the button */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 16px; /* Font size */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Task list styling */
+ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+/* Task item styling */
+li {
+    border-radius: 20px;
+    display: flex; /* Flexbox for alignment */
+    justify-content: space-between; /* Space between text and button */
+    align-items: center; /* Center the text vertically */
+    padding: 10px; /* Padding around each task */
+    border-bottom: 1px solid #eee; /* Light border below each task */
+    background-color: rgb(248, 125, 76);
+}
+
+li:last-child {
+    border-bottom: none; /* Remove the border for the last item */
+}
+
+/* Delete button styling */
+li button {
+    background-color: #dc3545; /* Red background for delete */
+    padding: 5px 10px; /* Padding for the button */
+    border: none; /* No border */
+    border-radius: 4px; /* Slightly rounded corners */
+    color: white; /* White text */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+li button:hover {
+    background-color: #da162a; /* Darker red on hover */
+}
