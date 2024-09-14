@@ -10,6 +10,8 @@ Task Filtering: View tasks based on their status (completed or pending).
 Frontend: React.js
 Backend: Node.js with Express
 Database: MongoDB
+
+
 **🚀 Getting Started**
 To get this app up and running on your local machine, follow these steps:
 
