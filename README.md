@@ -43,7 +43,8 @@ cd ../client
 npm start
 Visit http://localhost:3000 to see the app in action!
 
-**📷 Screenshots**
+**📷 Screenshots** :
+
 ![Screenshot 2024-09-14 171411](https://github.com/user-attachments/assets/d07d595e-f85e-4946-90a5-aa452a4e04a5)
 
 
