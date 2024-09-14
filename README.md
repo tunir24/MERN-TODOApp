@@ -6,7 +6,8 @@ Add Tasks: Easily add new tasks with a few clicks.
 Edit Tasks: Update your tasks whenever needed.
 Delete Tasks: Remove tasks when they're completed or no longer needed.
 Task Filtering: View tasks based on their status (completed or pending).
-🔧 Technologies Used
+
+**🔧 Technologies Used**
 Frontend: React.js
 Backend: Node.js with Express
 Database: MongoDB
@@ -43,7 +44,8 @@ npm start
 Visit http://localhost:3000 to see the app in action!
 
 **📷 Screenshots**
-Task Management Task Management Interface
+![Screenshot 2024-09-14 170343](https://github.com/user-attachments/assets/1fd2b8a6-e822-431c-8524-5cbcd16486ed)
+
 
 **Add Task Adding a New Task**
 
