@@ -1,7 +1,7 @@
-🚀 To-Do App
+**🚀 To-Do App** 
 Welcome to the To-Do App! This full-stack application built with the MERN stack (MongoDB, Express, React, Node.js) helps you stay organized by managing your tasks with ease. Whether you're tracking personal goals or managing work tasks, this app has you covered!
 
-📋 Features
+**📋 Features**
 Add Tasks: Easily add new tasks with a few clicks.
 Edit Tasks: Update your tasks whenever needed.
 Delete Tasks: Remove tasks when they're completed or no longer needed.
@@ -10,7 +10,7 @@ Task Filtering: View tasks based on their status (completed or pending).
 Frontend: React.js
 Backend: Node.js with Express
 Database: MongoDB
-🚀 Getting Started
+**🚀 Getting Started**
 To get this app up and running on your local machine, follow these steps:
 
 1. Clone the Repository
@@ -40,10 +40,10 @@ cd ../client
 npm start
 Visit http://localhost:3000 to see the app in action!
 
-📷 Screenshots
+**📷 Screenshots**
 Task Management Task Management Interface
 
-Add Task Adding a New Task
+**Add Task Adding a New Task**
 
 📝 Usage
 Manage Tasks: Use the interface to add, edit, and delete tasks.
@@ -54,6 +54,6 @@ If you want to contribute to the project, feel free to fork the repository and s
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🤝 Acknowledgments
+**🤝 Acknowledgments**
 Thanks to the MERN stack community for their continuous support and resources.
 Feel free to adjust any details to fit your project better!
