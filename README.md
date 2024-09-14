@@ -45,6 +45,7 @@ Visit http://localhost:3000 to see the app in action!
 
 **📷 Screenshots**
 ![Screenshot 2024-09-14 170343](https://github.com/user-attachments/assets/1fd2b8a6-e822-431c-8524-5cbcd16486ed)
+![Screenshot 2024-09-14 170343](https://github.com/user-attachments/assets/dee54ef8-4f91-4bf1-9301-cc97671abac4)
 
 
 **Add Task Adding a New Task**
