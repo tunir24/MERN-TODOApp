@@ -17,7 +17,7 @@ Database: MongoDB
 To get this app up and running on your local machine, follow these steps:
 
 1. Clone the Repository
-git clone https://github.com/itspritam008/MERN_TO_DO.git
+git clone https://github.com/tunir24/MERN-TODOApp.git
 cd MERN_TO_DO
 2. Install Dependencies
 For the backend:
